@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+joblib
+mordred
+lazypredict
+shap
+lime
+xgboost
+lightgbm

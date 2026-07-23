@@ -1,0 +1,20 @@
+name: molfet_regression_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rdkit
+  - pip
+  - pip:
+      - numpy
+      - pandas
+      - matplotlib
+      - scikit-learn
+      - scipy
+      - joblib
+      - mordred
+      - lazypredict
+      - shap
+      - lime
+      - xgboost
+      - lightgbm
