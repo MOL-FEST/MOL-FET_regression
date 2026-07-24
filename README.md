@@ -1,4 +1,4 @@
-# MOL-FET Regression Workshop
+# MOL-FEST Regression Workshop
 
 Bu depo, bir **ChEMBL Target ID** üzerinden ligand verisi toplamadan başlayıp 2D Mordred descriptor üretimi, LazyPredict regresyon karşılaştırması, final ağaç modeli, applicability domain ve SHAP yorumlanabilirlik analizine kadar ilerleyen beş notebookluk bir workshop akışı içerir.
 
