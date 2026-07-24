@@ -1,0 +1,13 @@
+{
+  "target_id": "CHEMBL206",
+  "drive_dir": "/content/drive/MyDrive/MOL_FET_regression_pipeline",
+  "github_raw_base": "https://raw.githubusercontent.com/MOL-FEST/MOL-FET_regression/main",
+  "raw_filename": "CHEMBL206_IC50_single_protein_raw.csv",
+  "clean_unfiltered_filename": "CHEMBL206_clean_unfiltered.csv",
+  "lipinski_filtered_filename": "CHEMBL206_Lipinski_filtered.csv",
+  "feature_filename": "CHEMBL206_Mordred2D_features.csv",
+  "manifest_filename": "CHEMBL206_Mordred2D_manifest.json",
+  "model_filename": "CHEMBL206_final_tree_model.joblib",
+  "imputer_filename": "CHEMBL206_feature_imputer.joblib",
+  "bundle_filename": "CHEMBL206_model_bundle.json"
+}

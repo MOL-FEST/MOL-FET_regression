@@ -1,0 +1,6 @@
+metric,value
+raw_rows,2185
+invalid_rows,0
+unique_clean_molecules,1770
+lipinski_pass,907
+lipinski_rejected,863
